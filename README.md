@@ -1,1 +1,1 @@
-scripts
+Some bash scripts
